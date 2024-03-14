@@ -7,9 +7,15 @@
 .cabecalho{
     background-color: #564261;
     display: flex;
+
+    justify-content: space-around;
 }
 
 .lista-cabecalho{
     color: white;
     font-size: 23px;
+}
+
+.lista-item{
+    display: inline-block;
 }
