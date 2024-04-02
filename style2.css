@@ -5,7 +5,7 @@
 
 
 .cabecalho{
-    background-color: #564261;
+    background-color: #614257;
     display: flex;
 
     justify-content: space-around;
@@ -15,10 +15,18 @@
     color: white;
     font-size: 23px;
 }
-
 .lista-item{
     display: inline-block;
 }
 .primeira-parte{
-    background-color: aquamarine;
+    background-image: linear-gradient(#614257,white);
+    height: 500px; ;
+    padding: 100px;
+    color: white
+}
+.primeiro-paragrafo{
+    padding: 15px;
+}
+.segundo-paragrafo{
+    padding: 15px;
 }
